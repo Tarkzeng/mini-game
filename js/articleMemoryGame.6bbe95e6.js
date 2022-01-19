@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["articleMemoryGame"],{bb8f:function(e,n,o){"use strict";o.r(n);const c={},s=c;n["default"]=s}}]);
+//# sourceMappingURL=articleMemoryGame.6bbe95e6.js.map

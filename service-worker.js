@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a99df6ad0a198e29c5d91da947be869c.js"
+  "precache-manifest.590c3c0604c04a7690d96c831b871680.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mini-game"});
